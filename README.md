@@ -8,6 +8,7 @@ Table of Contents:
 4. Conclusion
 5. Acknowledgements
 
+
 Libraries & Installation
 
 This project uses Python version 3.* and the following libraries:
@@ -15,12 +16,14 @@ This project uses Python version 3.* and the following libraries:
 * matplotlib
 * seaborn
 
+
 Project Motivation
 
 This project was the first of four in the Udacity Data Scientist Nanodegree Program. While exploring the data, I wanted to know:
 * How does seasonal variation impact Boston AirBnB booking prices?
 * What are the most common amenities for Boston AirBnB properties?
 * Which neighborhood has the most AirBnB properties and how does that correlate to pricing?
+
 
 Repository Files
 
@@ -31,9 +34,11 @@ This project utilizes Boston Airbnb data, wich is available through Kaggle.com h
 * listings.csv - This file contains 95 columns and 3,585 rows of data pertaining to specific listing information, such as descriptions, host information, location details, etc. 
 * reviews.csv - This file contains 6 columns and 68,275 rows of data pertaining to reviews for each listing. 
 
+
 Conclusion
 
 A full discussion of the results and conclusions drawn can be found at the blog post here: https://medium.com/@emma11351/how-can-boston-airbnb-properties-increase-rental-income-37efdf04812c 
+
 
 Acknowledgements
 
