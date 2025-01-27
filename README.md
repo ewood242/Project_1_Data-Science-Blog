@@ -29,7 +29,7 @@ This project utilizes Boston Airbnb data, wich is available through Kaggle.com h
 * reviews.csv - This file contains 6 columns and 68,275 rows of data pertaining to reviews for each listing. 
 
 Conclusion
-A full discussion of the results and conclusions drawn can be found at the blog post here:
+A full discussion of the results and conclusions drawn can be found at the blog post here: https://medium.com/@emma11351/how-can-boston-airbnb-properties-increase-rental-income-37efdf04812c 
 
 Acknowledgements
 Thank you to AirBnB and Kaggle for providing the dataset. 
